@@ -1,0 +1,32 @@
+body{
+    color: #00008B;
+    background-color: #f0f8ff;
+}
+
+h2{
+    color: #DC143C;
+}
+
+#cimkep{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.img{
+    width: 230; 
+    height:153;
+    border: 1px solid black;
+
+}
+
+#besorolasTable{
+    width: 500;
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 6;
+    border-collapse: 6;
+    text-align: center;
+
+}
